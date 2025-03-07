@@ -8602,6 +8602,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-07 06:26:39 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-03-07 06:22:20 +0000"
