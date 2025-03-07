@@ -73,6 +73,7 @@
       "minecraft:grove": "2025-03-04 04:49:23 +0000",
       "minecraft:forest": "2025-02-25 04:11:37 +0000",
       "minecraft:lush_caves": "2025-02-27 05:19:27 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-07 07:24:23 +0000",
       "minecraft:desert": "2025-03-05 04:40:14 +0000",
       "minecraft:jungle": "2025-02-25 04:04:37 +0000",
       "minecraft:ocean": "2025-02-25 04:23:59 +0000",
@@ -8594,6 +8595,78 @@
       "has_dye": "2025-03-06 03:49:31 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
+    },
+    "done": false
   },
   "twilightforest:progress_glacier": {
     "criteria": {
