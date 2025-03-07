@@ -7666,9 +7666,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-02-27 06:24:32 +0000"
+      "previous_progression": "2025-02-27 06:24:32 +0000",
+      "trophy": "2025-03-07 06:22:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
@@ -8589,77 +8590,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "twilightforest:progress_glacier": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
+      "previous_progression": "2025-03-07 06:22:20 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
+      "has_trophy": "2025-03-07 06:22:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
+      "has_trophy": "2025-03-07 06:22:20 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 04:30:47 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
