@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-02-27 06:45:26 +0000",
+      "minecraft:birch_forest": "2025-03-07 06:35:20 +0000",
       "minecraft:bamboo_jungle": "2025-02-26 08:26:46 +0000",
       "minecraft:wooded_badlands": "2025-02-26 08:26:54 +0000",
       "minecraft:savanna_plateau": "2025-02-26 07:14:13 +0000",
@@ -8059,77 +8060,77 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_quartz": "2025-03-07 06:40:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_quartz": "2025-03-07 06:40:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_quartz": "2025-03-07 06:40:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_quartz": "2025-03-07 06:40:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_basalt": "2025-03-07 06:39:38 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_quartz": "2025-03-07 06:40:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_quartz": "2025-03-07 06:40:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_basalt": "2025-03-07 06:39:38 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_quartz": "2025-03-07 06:40:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_quartz": "2025-03-07 06:40:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_quartz": "2025-03-07 06:40:42 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 06:32:47 +0000"
+      "has_basalt": "2025-03-07 06:39:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

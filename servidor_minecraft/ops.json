@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "034783f3-fbfc-3708-91b0-59525927d190",
+    "name": "chocolinpy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
