@@ -2884,3 +2884,52 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [07Mar2025 07:48:13.444] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
 [07Mar2025 07:48:13.444] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
 [07Mar2025 07:49:38.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported chocolinpy to Fassetta02]
+[07Mar2025 07:52:16.107] [Server thread/WARN] [tombstone/]: The death event of the player Fassetta02 was canceled by another mod
+[07Mar2025 07:52:16.120] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[07Mar2025 07:52:22.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[07Mar2025 07:52:22.177] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[07Mar2025 07:52:59.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> tp
+[07Mar2025 07:53:53.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved too quickly! -0.020001504577294327,53.014844483122545,0.0334820491816572
+[07Mar2025 07:54:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fassetta02: Teleported Fassetta02 to chocolinpy]
+[07Mar2025 07:54:04.421] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[07Mar2025 07:55:00.459] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[07Mar2025 07:55:00.459] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[07Mar2025 07:55:00.459] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[07Mar2025 07:55:00.459] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[07Mar2025 07:55:00.459] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[07Mar2025 07:55:00.459] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[07Mar2025 07:55:00.460] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[07Mar2025 07:55:00.460] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[07Mar2025 07:56:42.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Almost Like a Fan]
+[07Mar2025 07:57:07.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has made the advancement [Almost Like a Fan]
+[07Mar2025 07:57:41.911] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
+[07Mar2025 07:59:22.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fassetta02 lost connection: Disconnected
+[07Mar2025 07:59:22.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 left the game
+[07Mar2025 07:59:33.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Good Demoman]
+[07Mar2025 08:00:45.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> banca que guardo
+[07Mar2025 08:01:02.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved wrongly!
+[07Mar2025 08:04:02.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Local Brewery]
+[07Mar2025 08:06:25.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> 2 mins
+[07Mar2025 08:06:32.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> lo que tarde esto
+[07Mar2025 08:06:51.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo lost connection: Disconnected
+[07Mar2025 08:06:51.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo left the game
+[07Mar2025 08:07:01.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy lost connection: Disconnected
+[07Mar2025 08:07:01.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy left the game
+[07Mar2025 08:08:13.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Mar2025 08:08:13.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Mar2025 08:08:13.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Mar2025 08:08:13.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Mar2025 08:08:14.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Mar2025 08:08:14.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[07Mar2025 08:08:14.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Mar2025 08:08:14.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Mar2025 08:08:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Mar2025 08:08:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07Mar2025 08:08:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Mar2025 08:08:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Mar2025 08:08:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Mar2025 08:08:14.814] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Mar2025 08:08:14.816] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[07Mar2025 08:08:14.818] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07Mar2025 08:08:14.818] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[07Mar2025 08:08:14.819] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

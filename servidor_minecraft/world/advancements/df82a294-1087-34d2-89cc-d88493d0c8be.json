@@ -70,7 +70,9 @@
       "minecraft:snowy_plains": "2025-02-27 05:18:27 +0000",
       "minecraft:dripstone_caves": "2025-02-25 04:25:19 +0000",
       "minecraft:snowy_taiga": "2025-02-27 05:17:34 +0000",
+      "minecraft:grove": "2025-03-07 07:45:48 +0000",
       "minecraft:forest": "2025-02-25 03:28:02 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-07 07:54:02 +0000",
       "minecraft:jungle": "2025-02-23 18:53:33 +0000",
       "minecraft:ocean": "2025-02-25 03:44:45 +0000",
       "minecraft:frozen_peaks": "2025-03-04 03:47:45 +0000",
@@ -150,7 +152,8 @@
       "zebra": "2025-02-25 03:29:37 +0000",
       "chameleon": "2025-02-25 06:46:11 +0000",
       "orangutan": "2025-02-25 03:22:34 +0000",
-      "red_panda": "2025-02-25 07:11:45 +0000"
+      "red_panda": "2025-02-25 07:11:45 +0000",
+      "mammoth": "2025-03-07 07:51:02 +0000"
     },
     "done": false
   },
@@ -7618,6 +7621,7 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
+      "squireofthe_dark_lord_6": "2025-03-07 07:50:18 +0000",
       "squireofthe_dark_lord_0": "2025-03-05 04:12:13 +0000"
     },
     "done": false
@@ -8194,6 +8198,90 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-07 07:57:42 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-03-07 07:57:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-03-07 07:43:13 +0000"
@@ -8203,6 +8291,38 @@
   "tombstone:adventure/use_true_sight": {
     "criteria": {
       "has_magic_scroll": "2025-03-07 07:43:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_4": "2025-03-07 07:54:01 +0000",
+      "trickor_treat_5": "2025-03-07 07:54:01 +0000",
+      "trickor_treat_6": "2025-03-07 07:54:01 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-03-07 07:57:42 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-03-07 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-07 07:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-07 07:57:42 +0000"
     },
     "done": true
   },

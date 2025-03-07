@@ -56,7 +56,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-27 03:53:54 +0000",
+      "minecraft:taiga": "2025-03-07 07:47:59 +0000",
       "minecraft:deep_ocean": "2025-03-07 07:23:48 +0000",
+      "minecraft:frozen_river": "2025-03-07 07:49:38 +0000",
       "minecraft:cherry_grove": "2025-02-27 03:42:56 +0000",
       "minecraft:sunflower_plains": "2025-03-07 07:05:54 +0000",
       "minecraft:birch_forest": "2025-02-26 04:23:06 +0000",
@@ -69,8 +71,11 @@
       "minecraft:river": "2025-02-25 04:18:19 +0000",
       "minecraft:lukewarm_ocean": "2025-02-25 06:04:09 +0000",
       "minecraft:stony_shore": "2025-02-26 06:23:20 +0000",
+      "minecraft:snowy_plains": "2025-03-07 07:49:14 +0000",
       "minecraft:dripstone_caves": "2025-02-27 05:23:07 +0000",
+      "minecraft:snowy_taiga": "2025-03-07 07:47:50 +0000",
       "minecraft:grove": "2025-03-04 04:49:23 +0000",
+      "minecraft:cold_ocean": "2025-03-07 07:57:09 +0000",
       "minecraft:forest": "2025-02-25 04:11:37 +0000",
       "minecraft:lush_caves": "2025-02-27 05:19:27 +0000",
       "minecraft:deep_cold_ocean": "2025-03-07 07:24:23 +0000",
@@ -6472,7 +6477,8 @@
       "trickor_treat_3": "2025-02-26 08:44:16 +0000",
       "trickor_treat_4": "2025-02-26 08:44:08 +0000",
       "trickor_treat_5": "2025-02-26 08:44:08 +0000",
-      "trickor_treat_6": "2025-02-26 08:44:08 +0000"
+      "trickor_treat_6": "2025-02-26 08:44:08 +0000",
+      "trickor_treat_7": "2025-03-07 07:53:59 +0000"
     },
     "done": false
   },
@@ -8623,6 +8629,108 @@
   "born_in_chaos_v1:guidetothenextworld": {
     "criteria": {
       "guidetothenextworld_0": "2025-03-07 07:03:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-07 08:04:02 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-03-07 07:56:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-03-07 07:59:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_1": "2025-03-07 07:52:30 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-03-07 07:56:42 +0000"
     },
     "done": true
   },
