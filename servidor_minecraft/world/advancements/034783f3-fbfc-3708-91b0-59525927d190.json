@@ -8596,83 +8596,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:34:45 +0000"
-    },
-    "done": false
-  },
   "twilightforest:progress_glacier": {
     "criteria": {
       "previous_progression": "2025-03-07 06:22:20 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-07 06:22:20 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
@@ -8692,9 +8626,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "has_trophy": "2025-03-07 06:22:20 +0000"
+      "has_pointed_dripstone": "2025-03-07 07:44:15 +0000"
     },
     "done": true
   },

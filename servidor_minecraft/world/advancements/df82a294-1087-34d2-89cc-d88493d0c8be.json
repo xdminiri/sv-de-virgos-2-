@@ -8194,5 +8194,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-03-07 07:43:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-07 07:43:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "275f4f99-353c-3da9-baa4-908626846f44",
+    "name": "fassetta",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "df82a294-1087-34d2-89cc-d88493d0c8be",
+    "name": "Fassetta02",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "034783f3-fbfc-3708-91b0-59525927d190",
     "name": "chocolinpy",
     "level": 4,
