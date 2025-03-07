@@ -8096,6 +8096,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2025-03-07 06:57:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-03-07 06:40:42 +0000"
@@ -8105,6 +8111,18 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-03-07 06:39:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2025-03-07 06:57:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2025-03-07 06:57:52 +0000"
     },
     "done": true
   },
@@ -8123,6 +8141,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-03-07 06:40:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-03-07 06:57:52 +0000"
     },
     "done": true
   },

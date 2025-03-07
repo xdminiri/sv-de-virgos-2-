@@ -61,6 +61,7 @@
       "minecraft:bamboo_jungle": "2025-02-27 07:43:45 +0000",
       "minecraft:beach": "2025-02-25 04:19:21 +0000",
       "minecraft:stony_peaks": "2025-02-27 07:56:11 +0000",
+      "minecraft:mangrove_swamp": "2025-03-07 07:02:17 +0000",
       "minecraft:sparse_jungle": "2025-02-25 05:11:11 +0000",
       "minecraft:river": "2025-02-25 04:18:19 +0000",
       "minecraft:lukewarm_ocean": "2025-02-25 06:04:09 +0000",
@@ -8605,6 +8606,12 @@
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
       "all_effects": "2025-03-07 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-03-07 07:03:04 +0000"
     },
     "done": true
   },
