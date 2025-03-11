@@ -1790,3 +1790,35 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [11Mar2025 06:08:44.310] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 668 Y: 66 Z: -2137
 [11Mar2025 06:08:44.729] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
 [11Mar2025 06:09:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Discreet Search]
+[11Mar2025 06:10:31.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[11Mar2025 06:11:30.988] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[11Mar2025 06:11:31.000] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 06:11:35.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo was frozen to death by 15KEnzo
+[11Mar2025 06:11:35.306] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 15KEnzo with unique ID travelersbackpack.standard_11.03.2025-06.11.35.dat
+[11Mar2025 06:11:35.306] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 670 Y: 66 Z: -2136
+[11Mar2025 06:11:35.720] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 06:11:52.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported 15KEnzo to chocolinpy]
+[11Mar2025 06:12:18.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has completed the challenge [Master Siphoner]
+[11Mar2025 06:13:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[11Mar2025 06:15:06.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _valenntinno lost connection: Disconnected
+[11Mar2025 06:15:06.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno left the game
+[11Mar2025 06:15:28.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[11Mar2025 06:15:32.807] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[11Mar2025 06:15:32.832] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 06:15:35.752] [Server thread/WARN] [tombstone/]: The death event of the player Fassetta02 was canceled by another mod
+[11Mar2025 06:15:35.763] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 06:15:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 06:15:37.855] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 15KEnzo with unique ID travelersbackpack.standard_11.03.2025-06.15.37.dat
+[11Mar2025 06:15:37.856] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 706 Y: 65 Z: -2140
+[11Mar2025 06:15:38.269] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 06:15:42.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[11Mar2025 06:15:50.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fassetta02 lost connection: Disconnected
+[11Mar2025 06:15:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 left the game
+[11Mar2025 06:16:24.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy moved too quickly! -1.841010019170426,2.855867207934722,10.314373549722404
+[11Mar2025 06:17:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> me pones full niveles de exp
+[11Mar2025 06:17:49.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported 15KEnzo to chocolinpy]
+[11Mar2025 06:18:58.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made 15KEnzo a server operator
+[11Mar2025 06:19:43.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [15KEnzo: Set 1000 experience levels on 15KEnzo]
+[11Mar2025 06:20:34.019] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Mar2025 06:20:34.020] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Mar2025 06:20:42.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported chocolinpy to 15KEnzo]

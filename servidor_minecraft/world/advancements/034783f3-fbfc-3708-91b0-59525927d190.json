@@ -3288,6 +3288,7 @@
       "orangutan": "2025-02-26 08:15:46 +0000",
       "giraffe": "2025-02-25 07:29:59 +0000",
       "marmot": "2025-02-27 03:53:22 +0000",
+      "secretarybird": "2025-03-11 06:11:43 +0000",
       "beaver": "2025-02-26 04:23:16 +0000",
       "red_panda": "2025-02-26 08:16:13 +0000"
     },
@@ -8353,7 +8354,8 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
-      "trophy": "2025-03-05 05:56:18 +0000"
+      "trophy": "2025-03-05 05:56:18 +0000",
+      "was_in_fight": "2025-03-11 06:10:42 +0000"
     },
     "done": false
   },
@@ -8825,6 +8827,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-03-11 06:11:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
     "criteria": {
       "has_crimson_planks": "2025-03-11 05:41:27 +0000"
@@ -8912,6 +8920,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-03-11 05:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-11 06:11:22 +0000"
     },
     "done": true
   },
