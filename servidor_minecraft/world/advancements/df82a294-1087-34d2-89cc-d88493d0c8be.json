@@ -708,8 +708,10 @@
       "minecraft:cave_spider": "2025-02-25 04:19:31 +0000",
       "minecraft:piglin": "2025-02-26 05:16:56 +0000",
       "minecraft:stray": "2025-02-25 04:11:44 +0000",
+      "minecraft:silverfish": "2025-03-11 05:26:24 +0000",
       "minecraft:vex": "2025-02-26 07:41:10 +0000",
       "minecraft:zombie": "2025-02-25 03:26:18 +0000",
+      "minecraft:drowned": "2025-03-11 05:09:19 +0000",
       "minecraft:zombie_villager": "2025-02-25 06:19:14 +0000"
     },
     "done": false
@@ -8276,6 +8278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-11 05:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-03-11 04:49:43 +0000"
@@ -8291,6 +8299,18 @@
   "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-03-11 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-11 05:22:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-03-11 05:21:16 +0000"
     },
     "done": true
   },
@@ -8342,6 +8362,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-03-11 05:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-11 05:26:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2025-03-11 05:07:59 +0000"
@@ -8363,6 +8395,12 @@
   "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
     "criteria": {
       "has_calamari": "2025-03-11 05:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-11 05:26:56 +0000"
     },
     "done": true
   },
@@ -8462,9 +8500,21 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-11 05:26:56 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_shell_horn": {
     "criteria": {
       "shell_horn": "2025-03-11 04:43:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-03-11 05:19:07 +0000"
     },
     "done": true
   },

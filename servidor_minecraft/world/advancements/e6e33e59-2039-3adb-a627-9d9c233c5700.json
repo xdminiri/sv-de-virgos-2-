@@ -67,8 +67,10 @@
       "minecraft:river": "2025-02-25 03:40:47 +0000",
       "minecraft:stony_shore": "2025-02-26 06:52:51 +0000",
       "minecraft:dripstone_caves": "2025-02-27 05:22:48 +0000",
+      "minecraft:cold_ocean": "2025-03-11 05:19:42 +0000",
       "minecraft:forest": "2025-02-25 03:40:13 +0000",
       "minecraft:lush_caves": "2025-02-27 05:19:52 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-11 05:18:53 +0000",
       "minecraft:desert": "2025-02-26 08:29:18 +0000",
       "minecraft:jungle": "2025-02-25 03:39:19 +0000",
       "minecraft:ocean": "2025-02-25 03:44:49 +0000",
@@ -8175,78 +8177,53 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-03-07 08:06:19 +0000",
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+      "coded_trigger": "2025-03-11 05:20:07 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+      "in_stronghold": "2025-03-11 05:26:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+      "entered_end": "2025-03-11 05:27:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "travelersbackpack:recipes/misc/dragon": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+      "has_dragon_breath": "2025-03-11 05:28:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+      "dragon_breath": "2025-03-11 05:28:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "aquamirae:recipes/ship_graveyard_echo": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+      "has_item": "2025-03-11 05:20:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:end/root": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+      "entered_end": "2025-03-11 05:27:02 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "aquamirae:adventure/obtain_shell_horn": {
     "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
+      "shell_horn": "2025-03-11 05:18:58 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 08:06:10 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
