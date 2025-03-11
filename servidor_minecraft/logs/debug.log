@@ -7452,3 +7452,83 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [11Mar2025 05:29:00.150] [Server thread/DEBUG] [tombstone/]: A new grave of the player Fassetta02 was created at position [x:32, y:57, z:-36, dim:minecraft:the_end]
 [11Mar2025 05:29:01.319] [Server thread/DEBUG] [twilightforest/]: Player Fassetta02 (df82a294-1087-34d2-89cc-d88493d0c8be) respawned and received items held in storage
 [11Mar2025 05:29:04.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Stolen Magic]
+[11Mar2025 05:29:22.043] [Server thread/WARN] [tombstone/]: The death event of the player chocolinpy was canceled by another mod
+[11Mar2025 05:29:22.057] [Server thread/INFO] [tombstone/]: The player chocolinpy has successfully been saved
+[11Mar2025 05:29:28.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 05:29:28.055] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_11.03.2025-05.29.28.dat
+[11Mar2025 05:29:28.055] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -4 Y: 62 Z: 6
+[11Mar2025 05:29:28.461] [Server thread/DEBUG] [tombstone/]: A new grave of the player chocolinpy was created at position [x:-5, y:62, z:6, dim:minecraft:the_end]
+[11Mar2025 05:29:28.472] [Server thread/INFO] [tombstone/]: The player chocolinpy has successfully been saved
+[11Mar2025 05:29:29.962] [Server thread/DEBUG] [twilightforest/]: Player chocolinpy (034783f3-fbfc-3708-91b0-59525927d190) respawned and received items held in storage
+[11Mar2025 05:29:38.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has made the advancement [Free the End]
+[11Mar2025 05:30:50.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has completed the challenge [The Power of the Sun]
+[11Mar2025 05:31:19.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported Fassetta02 to chocolinpy]
+[11Mar2025 05:31:27.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [The Next Generation]
+[11Mar2025 05:31:39.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has made the advancement [Remote Getaway]
+[11Mar2025 05:31:44.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Remote Getaway]
+[11Mar2025 05:31:57.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [The City at the End of the Game]
+[11Mar2025 05:32:01.290] [Server thread/WARN] [tombstone/]: The death event of the player Fassetta02 was canceled by another mod
+[11Mar2025 05:32:01.301] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 05:32:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 was frozen to death by Fassetta02
+[11Mar2025 05:32:05.200] [Server thread/DEBUG] [tombstone/]: A new grave of the player Fassetta02 was created at position [x:1015, y:61, z:717, dim:minecraft:the_end]
+[11Mar2025 05:32:05.202] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 05:32:06.620] [Server thread/DEBUG] [twilightforest/]: Player Fassetta02 (df82a294-1087-34d2-89cc-d88493d0c8be) respawned and received items held in storage
+[11Mar2025 05:32:12.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has made the advancement [Remote Getaway]
+[11Mar2025 05:32:15.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has made the advancement [Double Trouble]
+[11Mar2025 05:32:21.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has made the advancement [The City at the End of the Game]
+[11Mar2025 05:32:22.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has made the advancement [Ender Distancing]
+[11Mar2025 05:32:31.042] [Server thread/WARN] [tombstone/]: The death event of the player chocolinpy was canceled by another mod
+[11Mar2025 05:32:31.055] [Server thread/INFO] [tombstone/]: The player chocolinpy has successfully been saved
+[11Mar2025 05:32:35.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 05:32:35.051] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_11.03.2025-05.32.35.dat
+[11Mar2025 05:32:35.051] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1055 Y: 72 Z: 695
+[11Mar2025 05:32:35.425] [Server thread/DEBUG] [tombstone/]: A new grave of the player chocolinpy was created at position [x:1054, y:72, z:695, dim:minecraft:the_end]
+[11Mar2025 05:32:35.435] [Server thread/INFO] [tombstone/]: The player chocolinpy has successfully been saved
+[11Mar2025 05:32:37.013] [Server thread/DEBUG] [twilightforest/]: Player chocolinpy (034783f3-fbfc-3708-91b0-59525927d190) respawned and received items held in storage
+[11Mar2025 05:32:37.642] [Server thread/WARN] [tombstone/]: The death event of the player _valenntinno was canceled by another mod
+[11Mar2025 05:32:37.654] [Server thread/INFO] [tombstone/]: The player _valenntinno has successfully been saved
+[11Mar2025 05:32:42.310] [Server thread/WARN] [tombstone/]: The death event of the player Fassetta02 was canceled by another mod
+[11Mar2025 05:32:42.319] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 05:32:43.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.unholy.item
+[11Mar2025 05:32:43.611] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _valenntinno with unique ID travelersbackpack.standard_11.03.2025-05.32.43.dat
+[11Mar2025 05:32:43.611] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1035 Y: 61 Z: 705
+[11Mar2025 05:32:44.777] [Server thread/DEBUG] [tombstone/]: A new grave of the player _valenntinno was created at position [x:1034, y:61, z:705, dim:minecraft:the_end]
+[11Mar2025 05:32:44.785] [Server thread/INFO] [tombstone/]: The player _valenntinno has successfully been saved
+[11Mar2025 05:32:44.859] [Server thread/DEBUG] [twilightforest/]: Player _valenntinno (302e9642-cb35-3270-ac05-93abaa50c937) respawned and received items held in storage
+[11Mar2025 05:32:45.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 05:32:45.788] [Server thread/DEBUG] [tombstone/]: A new grave of the player Fassetta02 was created at position [x:1050, y:72, z:702, dim:minecraft:the_end]
+[11Mar2025 05:32:45.798] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 05:32:47.055] [Server thread/DEBUG] [twilightforest/]: Player Fassetta02 (df82a294-1087-34d2-89cc-d88493d0c8be) respawned and received items held in storage
+[11Mar2025 05:32:47.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[11Mar2025 05:32:53.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [Remote Getaway]
+[11Mar2025 05:33:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has made the advancement [The City at the End of the Game]
+[11Mar2025 05:33:54.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 05:33:54.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 05:34:53.456] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=18, z=314}
+[11Mar2025 05:34:53.456] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=317}
+[11Mar2025 05:34:53.456] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=16, z=316}
+[11Mar2025 05:34:53.457] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1466, y=18, z=323}
+[11Mar2025 05:34:53.457] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
+[11Mar2025 05:34:53.457] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
+[11Mar2025 05:34:53.457] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
+[11Mar2025 05:34:54.696] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1474, y=19, z=299}
+[11Mar2025 05:34:54.696] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1475, y=17, z=299}
+[11Mar2025 05:34:54.697] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1477, y=19, z=299}
+[11Mar2025 05:34:54.697] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1482, y=17, z=299}
+[11Mar2025 05:34:54.697] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1481, y=17, z=299}
+[11Mar2025 05:34:54.697] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=301}
+[11Mar2025 05:34:54.697] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=309}
+[11Mar2025 05:34:54.697] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=19, z=306}
+[11Mar2025 05:34:54.698] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=305}
+[11Mar2025 05:35:09.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [Three Little Birds]
+[11Mar2025 05:35:21.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fassetta02: Teleported Fassetta02 to 15KEnzo]
+[11Mar2025 05:35:21.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has made the advancement [Three Little Birds]
+[11Mar2025 05:35:32.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported chocolinpy to 15KEnzo]
+[11Mar2025 05:36:00.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported _valenntinno to chocolinpy]
+[11Mar2025 05:36:20.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has made the advancement [Three Little Birds]
+[11Mar2025 05:36:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Three Little Birds]
+[11Mar2025 05:38:12.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has reached the goal [Magic Siphoner]
+[11Mar2025 05:38:44.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=54, z=1958} BlockPos{x=1030, y=54, z=1960}
+[11Mar2025 05:38:51.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has made the advancement [Cover Me with Diamonds]
+[11Mar2025 05:38:54.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 05:38:54.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

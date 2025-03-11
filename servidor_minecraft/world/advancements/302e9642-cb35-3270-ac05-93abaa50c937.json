@@ -2330,12 +2330,15 @@
       "minecraft:creeper": "2025-02-25 04:07:47 +0000",
       "minecraft:wither": "2025-03-05 04:39:09 +0000",
       "minecraft:slime": "2025-02-26 05:34:20 +0000",
+      "minecraft:phantom": "2025-03-11 05:37:40 +0000",
       "minecraft:zombified_piglin": "2025-02-26 05:24:31 +0000",
       "minecraft:wither_skeleton": "2025-02-26 05:08:57 +0000",
       "minecraft:husk": "2025-02-25 06:28:58 +0000",
+      "minecraft:ender_dragon": "2025-03-11 05:29:38 +0000",
       "minecraft:cave_spider": "2025-02-25 04:18:54 +0000",
       "minecraft:piglin": "2025-02-26 05:12:34 +0000",
       "minecraft:stray": "2025-02-25 04:11:18 +0000",
+      "minecraft:enderman": "2025-03-11 05:29:03 +0000",
       "minecraft:vex": "2025-02-26 07:27:33 +0000",
       "minecraft:zombie": "2025-02-25 03:54:14 +0000",
       "minecraft:zombie_villager": "2025-02-25 05:39:39 +0000"
@@ -8596,9 +8599,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-03-11 05:33:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-03-11 05:36:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-03-11 05:32:22 +0000"
     },
     "done": true
   },
@@ -8632,6 +8653,18 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-03-11 05:38:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-03-11 05:30:51 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
       "fin": "2025-03-11 04:27:37 +0000"
@@ -8659,6 +8692,12 @@
   "tombstone:adventure/master_siphoner": {
     "criteria": {
       "coded_trigger": "2025-03-11 04:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:33:14 +0000"
     },
     "done": true
   },
@@ -8704,9 +8743,39 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-03-11 05:32:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-03-11 05:32:15 +0000"
+    },
+    "done": true
+  },
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-03-11 04:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-03-11 05:33:10 +0000"
     },
     "done": true
   },
@@ -8734,9 +8803,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-03-11 05:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-03-11 04:48:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-03-11 05:29:38 +0000"
     },
     "done": true
   },
@@ -8749,6 +8836,12 @@
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-03-11 04:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:33:14 +0000"
     },
     "done": true
   },
@@ -8770,6 +8863,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-11 05:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-03-11 04:31:19 +0000"
@@ -8779,6 +8878,12 @@
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-03-11 04:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-03-11 05:33:10 +0000"
     },
     "done": true
   },
@@ -8806,6 +8911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-03-11 05:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-11 04:39:42 +0000"
@@ -8815,6 +8926,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-03-11 05:38:12 +0000"
     },
     "done": true
   },
@@ -8830,9 +8947,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-03-11 05:33:10 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/ship_graveyard_echo": {
     "criteria": {
       "has_item": "2025-03-11 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-03-11 05:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-03-11 05:33:09 +0000"
     },
     "done": true
   },
@@ -8875,6 +9010,12 @@
   "aquamirae:adventure/obtain_shell_horn": {
     "criteria": {
       "shell_horn": "2025-03-11 05:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:33:14 +0000"
     },
     "done": true
   },

@@ -2870,6 +2870,7 @@
       "minecraft:blaze": "2025-02-26 09:46:26 +0000",
       "minecraft:skeleton": "2025-02-25 05:12:54 +0000",
       "minecraft:hoglin": "2025-02-26 07:03:58 +0000",
+      "minecraft:guardian": "2025-03-11 05:38:16 +0000",
       "minecraft:vindicator": "2025-02-25 07:15:45 +0000",
       "minecraft:magma_cube": "2025-02-26 08:31:56 +0000",
       "minecraft:spider": "2025-02-25 05:52:45 +0000",
@@ -2878,6 +2879,7 @@
       "minecraft:phantom": "2025-02-27 08:46:44 +0000",
       "minecraft:wither_skeleton": "2025-02-26 05:08:01 +0000",
       "minecraft:husk": "2025-02-26 06:29:04 +0000",
+      "minecraft:shulker": "2025-03-11 05:34:09 +0000",
       "minecraft:cave_spider": "2025-02-27 03:55:26 +0000",
       "minecraft:piglin": "2025-02-26 10:00:06 +0000",
       "minecraft:stray": "2025-02-25 05:51:26 +0000",
@@ -8678,9 +8680,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-03-11 05:36:26 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:yoursatietywillbe_eternal": {
     "criteria": {
       "yoursatietywillbe_eternal_0": "2025-03-11 04:27:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-03-11 05:29:04 +0000"
     },
     "done": true
   },
@@ -8690,9 +8704,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-11 05:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-11 05:38:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/packed_ice": {
     "criteria": {
       "has_result": "2025-03-11 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-03-11 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-03-11 05:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-03-11 05:31:44 +0000"
     },
     "done": true
   },
@@ -8708,6 +8752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-03-11 05:34:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-03-11 05:26:58 +0000"
@@ -8720,9 +8770,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-11 05:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-11 05:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-03-11 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-03-11 05:38:10 +0000"
     },
     "done": true
   },
@@ -8738,9 +8806,21 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-03-11 05:31:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep_smithing": {
     "criteria": {
       "has_sheep": "2025-03-11 04:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-11 05:38:10 +0000"
     },
     "done": true
   },
@@ -8753,6 +8833,12 @@
   "aquamirae:adventure/obtain_shell_horn": {
     "criteria": {
       "shell_horn": "2025-03-11 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-11 05:38:10 +0000"
     },
     "done": true
   },
