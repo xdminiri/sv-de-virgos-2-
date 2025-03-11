@@ -8198,90 +8198,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-07 07:59:10 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-03-07 07:57:42 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/obtain_fin": {
-    "criteria": {
-      "fin": "2025-03-07 07:57:07 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-03-07 07:43:13 +0000"
@@ -8302,15 +8218,27 @@
     },
     "done": false
   },
-  "travelersbackpack:recipes/misc/ocelot": {
+  "aquamirae:adventure/obtain_fin": {
     "criteria": {
-      "has_cod": "2025-03-07 07:57:42 +0000"
+      "fin": "2025-03-07 07:57:07 +0000"
     },
     "done": true
   },
   "aquamirae:recipes/fin": {
     "criteria": {
       "has_item": "2025-03-07 07:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-07 07:57:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-03-07 07:57:42 +0000"
     },
     "done": true
   },
