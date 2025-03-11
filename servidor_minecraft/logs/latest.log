@@ -1707,3 +1707,86 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [11Mar2025 05:57:13.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported chocolinpy to 15KEnzo]
 [11Mar2025 05:59:47.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4128ms or 82 ticks behind
 [11Mar2025 05:59:47.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fassetta02 moved too quickly! 5.973628170501115,-8.072220565071277,-0.7303874090061981
+[11Mar2025 06:00:11.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has made the advancement [Double Trouble]
+[11Mar2025 06:00:20.470] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Mar2025 06:00:20.472] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Mar2025 06:00:22.371] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Mar2025 06:00:40.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[11Mar2025 06:00:53.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported 15KEnzo to chocolinpy]
+[11Mar2025 06:01:11.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved too quickly! -0.27867547529763215,-11.519451712926724,0.03291096376915448
+[11Mar2025 06:01:42.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has reached the goal [Tomb Bound]
+[11Mar2025 06:02:01.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved wrongly!
+[11Mar2025 06:02:20.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fassetta02: Teleported Fassetta02 to _valenntinno]
+[11Mar2025 06:02:36.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy moved too quickly! 1.3593864694611284,0.0,-10.672820702528952
+[11Mar2025 06:02:36.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved too quickly! -0.48548244874541524,0.0,-11.096026683794662
+[11Mar2025 06:02:37.219] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:02:37.219] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:02:37.220] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:02:37.221] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:02:37.222] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:02:37.222] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:02:37.223] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:02:37.224] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:02:51.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fassetta02: Teleported _valenntinno to Fassetta02]
+[11Mar2025 06:03:00.324] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:00.324] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:00.324] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:00.324] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:00.324] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:00.325] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:00.325] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:00.325] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:00.325] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:00.325] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:06.473] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:06.474] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:06.474] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:06.475] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:06.475] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:06.475] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:06.475] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:06.476] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 06:03:13.718] [Server thread/WARN] [tombstone/]: The death event of the player Fassetta02 was canceled by another mod
+[11Mar2025 06:03:13.731] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 06:03:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.holy.item
+[11Mar2025 06:03:17.090] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 06:03:27.501] [Server thread/WARN] [tombstone/]: The death event of the player Fassetta02 was canceled by another mod
+[11Mar2025 06:03:27.515] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 06:03:29.158] [Server thread/WARN] [tombstone/]: The death event of the player _valenntinno was canceled by another mod
+[11Mar2025 06:03:29.168] [Server thread/INFO] [tombstone/]: The player _valenntinno has successfully been saved
+[11Mar2025 06:03:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 06:03:33.708] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 06:03:35.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno was frozen to death by _valenntinno
+[11Mar2025 06:03:35.388] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for _valenntinno with unique ID travelersbackpack.standard_11.03.2025-06.03.35.dat
+[11Mar2025 06:03:35.388] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 859 Y: 119 Z: -2174
+[11Mar2025 06:03:35.821] [Server thread/INFO] [tombstone/]: The player _valenntinno has successfully been saved
+[11Mar2025 06:03:58.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported 15KEnzo to chocolinpy]
+[11Mar2025 06:04:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[11Mar2025 06:04:45.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[11Mar2025 06:05:32.791] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[11Mar2025 06:05:32.802] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 06:05:37.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 06:05:37.855] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 15KEnzo with unique ID travelersbackpack.standard_11.03.2025-06.05.37.dat
+[11Mar2025 06:05:37.855] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 693 Y: 65 Z: -2156
+[11Mar2025 06:05:38.264] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 06:06:00.854] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[11Mar2025 06:06:00.876] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 06:06:02.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 06:06:02.454] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 15KEnzo with unique ID travelersbackpack.standard_11.03.2025-06.06.02.dat
+[11Mar2025 06:06:02.454] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 677 Y: 65 Z: -2137
+[11Mar2025 06:06:02.860] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 06:06:05.743] [Server thread/WARN] [tombstone/]: The death event of the player Fassetta02 was canceled by another mod
+[11Mar2025 06:06:05.753] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 06:06:11.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 06:06:11.750] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 06:06:25.038] [Server thread/WARN] [tombstone/]: The death event of the player _valenntinno was canceled by another mod
+[11Mar2025 06:06:25.047] [Server thread/INFO] [tombstone/]: The player _valenntinno has successfully been saved
+[11Mar2025 06:06:31.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 06:06:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Survival Mode]
+[11Mar2025 06:08:35.797] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[11Mar2025 06:08:35.809] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 06:08:44.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo was frozen to death by 15KEnzo
+[11Mar2025 06:08:44.309] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 15KEnzo with unique ID travelersbackpack.standard_11.03.2025-06.08.44.dat
+[11Mar2025 06:08:44.310] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 668 Y: 66 Z: -2137
+[11Mar2025 06:08:44.729] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 06:09:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Discreet Search]

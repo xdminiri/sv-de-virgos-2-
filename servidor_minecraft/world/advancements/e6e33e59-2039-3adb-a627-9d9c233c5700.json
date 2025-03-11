@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-02-27 06:45:26 +0000",
+      "minecraft:sunflower_plains": "2025-03-11 06:01:41 +0000",
       "minecraft:birch_forest": "2025-03-07 06:35:20 +0000",
       "minecraft:bamboo_jungle": "2025-02-26 08:26:46 +0000",
       "minecraft:wooded_badlands": "2025-02-26 08:26:54 +0000",
@@ -230,7 +231,8 @@
       "golden_apple": "2025-02-27 06:22:42 +0000",
       "melon_slice": "2025-02-27 05:53:25 +0000",
       "golden_carrot": "2025-02-26 07:07:34 +0000",
-      "cooked_chicken": "2025-02-27 07:05:13 +0000"
+      "cooked_chicken": "2025-02-27 07:05:13 +0000",
+      "enchanted_golden_apple": "2025-03-11 06:06:56 +0000"
     },
     "done": false
   },
@@ -8192,6 +8194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-03-11 05:59:27 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_aviary": {
     "criteria": {
       "location0": "2025-03-11 05:35:09 +0000"
@@ -8306,6 +8314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-03-11 05:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-03-11 05:26:00 +0000"
@@ -8339,6 +8353,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-03-11 05:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-03-11 05:59:27 +0000"
     },
     "done": true
   },
@@ -8414,6 +8434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-03-11 05:59:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
     "criteria": {
       "has_crimson_planks": "2025-03-11 05:45:46 +0000"
@@ -8444,9 +8470,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-03-11 05:59:27 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/ship_graveyard_echo": {
     "criteria": {
       "has_item": "2025-03-11 05:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-03-11 05:59:27 +0000"
     },
     "done": true
   },
