@@ -71,6 +71,7 @@
       "minecraft:dripstone_caves": "2025-02-25 04:25:19 +0000",
       "minecraft:snowy_taiga": "2025-02-27 05:17:34 +0000",
       "minecraft:grove": "2025-03-07 07:45:48 +0000",
+      "minecraft:cold_ocean": "2025-03-11 04:29:05 +0000",
       "minecraft:forest": "2025-02-25 03:28:02 +0000",
       "minecraft:deep_cold_ocean": "2025-03-07 07:54:02 +0000",
       "minecraft:jungle": "2025-02-23 18:53:33 +0000",
@@ -8212,12 +8213,17 @@
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
+      "trickor_treat_0": "2025-03-11 04:21:10 +0000",
       "trickor_treat_1": "2025-03-11 04:12:07 +0000",
+      "trickor_treat_2": "2025-03-11 04:21:10 +0000",
+      "trickor_treat_3": "2025-03-11 04:21:10 +0000",
       "trickor_treat_4": "2025-03-07 07:54:01 +0000",
       "trickor_treat_5": "2025-03-07 07:54:01 +0000",
-      "trickor_treat_6": "2025-03-07 07:54:01 +0000"
+      "trickor_treat_6": "2025-03-07 07:54:01 +0000",
+      "trickor_treat_7": "2025-03-11 04:21:10 +0000",
+      "trickor_treat_8": "2025-03-11 04:27:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "aquamirae:adventure/obtain_fin": {
     "criteria": {
@@ -8258,6 +8264,36 @@
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-03-11 04:07:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-03-11 04:14:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-03-11 04:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-11 04:14:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-03-11 04:14:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-03-11 04:14:32 +0000"
     },
     "done": true
   },

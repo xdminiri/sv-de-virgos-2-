@@ -65,7 +65,9 @@
       "minecraft:river": "2025-02-25 03:28:15 +0000",
       "minecraft:stony_shore": "2025-02-25 06:21:07 +0000",
       "minecraft:dripstone_caves": "2025-02-25 04:17:48 +0000",
+      "minecraft:cold_ocean": "2025-03-11 04:29:13 +0000",
       "minecraft:forest": "2025-02-25 03:28:00 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-11 04:25:55 +0000",
       "minecraft:jungle": "2025-02-25 03:21:17 +0000",
       "minecraft:ocean": "2025-02-25 03:36:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-25 06:49:08 +0000",
@@ -8597,9 +8599,33 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-03-11 04:27:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-03-11 04:02:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-03-11 04:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-11 04:31:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-03-11 04:32:15 +0000"
     },
     "done": true
   },
@@ -8612,6 +8638,42 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-03-11 04:02:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-03-11 04:31:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-03-11 04:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-11 04:31:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-03-11 04:31:33 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-03-11 04:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-11 04:31:19 +0000"
     },
     "done": true
   },
