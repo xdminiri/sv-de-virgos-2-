@@ -1822,3 +1822,28 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [11Mar2025 06:20:34.019] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [11Mar2025 06:20:34.020] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [11Mar2025 06:20:42.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported chocolinpy to 15KEnzo]
+[11Mar2025 06:21:11.501] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Mar2025 06:21:11.501] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Mar2025 06:21:11.503] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Mar2025 06:23:11.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy lost connection: Disconnected
+[11Mar2025 06:23:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy left the game
+[11Mar2025 06:23:17.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo lost connection: Disconnected
+[11Mar2025 06:23:17.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo left the game
+[11Mar2025 06:23:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Mar2025 06:23:33.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Mar2025 06:23:33.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Mar2025 06:23:33.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Mar2025 06:23:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Mar2025 06:23:34.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[11Mar2025 06:23:34.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Mar2025 06:23:34.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Mar2025 06:23:34.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Mar2025 06:23:34.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[11Mar2025 06:23:34.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Mar2025 06:23:34.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Mar2025 06:23:34.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Mar2025 06:23:35.225] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11Mar2025 06:23:35.228] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[11Mar2025 06:23:35.234] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[11Mar2025 06:23:35.234] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[11Mar2025 06:23:35.235] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
