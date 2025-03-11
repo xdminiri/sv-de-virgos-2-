@@ -1121,6 +1121,7 @@
       "minecraft:slime": "2025-02-26 05:04:16 +0000",
       "minecraft:phantom": "2025-02-26 07:03:11 +0000",
       "minecraft:wither_skeleton": "2025-02-25 04:13:02 +0000",
+      "minecraft:shulker": "2025-03-11 05:50:38 +0000",
       "minecraft:stray": "2025-02-25 04:25:01 +0000",
       "minecraft:enderman": "2025-02-26 04:20:27 +0000",
       "minecraft:zombie": "2025-02-25 03:55:17 +0000",
@@ -8179,6 +8180,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-11 05:55:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
     "criteria": {
       "has_crimson_planks": "2025-03-11 05:45:46 +0000"
@@ -8233,6 +8240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2025-03-11 05:35:59 +0000"
@@ -8251,6 +8264,12 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/reinforced_hang_glider": {
+    "criteria": {
+      "has_elytra": "2025-03-11 05:50:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-03-11 05:32:53 +0000"
@@ -8263,9 +8282,27 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-03-11 05:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-03-11 05:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:50:29 +0000"
     },
     "done": true
   },
@@ -8287,9 +8324,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-03-11 05:53:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-03-11 05:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:50:29 +0000"
     },
     "done": true
   },
@@ -8311,6 +8360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:50:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2025-03-11 05:42:11 +0000"
@@ -8320,6 +8375,18 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
     "criteria": {
       "has_crimson_planks": "2025-03-11 05:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-03-11 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-11 05:55:53 +0000"
     },
     "done": true
   },
@@ -8383,6 +8450,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-03-11 05:49:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
     "criteria": {
       "has_crimson_planks": "2025-03-11 05:45:46 +0000"
@@ -8410,6 +8483,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-11 05:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-11 05:50:29 +0000"
     },
     "done": true
   },

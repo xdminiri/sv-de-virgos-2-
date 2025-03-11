@@ -1675,3 +1675,35 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [11Mar2025 05:49:44.209] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 15KEnzo with unique ID travelersbackpack.standard_11.03.2025-05.49.44.dat
 [11Mar2025 05:49:44.210] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 980 Y: 110 Z: 1730
 [11Mar2025 05:49:44.667] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 05:50:40.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Sky's the Limit]
+[11Mar2025 05:51:04.651] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[11Mar2025 05:51:04.663] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 05:51:10.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 05:51:10.659] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 15KEnzo with unique ID travelersbackpack.standard_11.03.2025-05.51.10.dat
+[11Mar2025 05:51:10.662] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 972 Y: 72.3562507927417 Z: 1749
+[11Mar2025 05:51:11.081] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 05:52:28.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <15KEnzo> 972 72 1749
+[11Mar2025 05:53:30.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has completed the challenge [Great View From Up Here]
+[11Mar2025 05:54:20.610] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[11Mar2025 05:54:20.612] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 05:54:31.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo fell from a high place
+[11Mar2025 05:55:26.392] [Server thread/WARN] [tombstone/]: The death event of the player chocolinpy was canceled by another mod
+[11Mar2025 05:55:26.400] [Server thread/INFO] [tombstone/]: The player chocolinpy has successfully been saved
+[11Mar2025 05:55:28.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy fell out of the world
+[11Mar2025 05:55:28.404] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for chocolinpy with unique ID travelersbackpack.standard_11.03.2025-05.55.28.dat
+[11Mar2025 05:55:28.404] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1070 Y: 3 Z: 1782
+[11Mar2025 05:55:28.788] [Server thread/INFO] [tombstone/]: The player chocolinpy has successfully been saved
+[11Mar2025 05:55:28.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved too quickly! 9.797092273707676,-4.430937699718754,3.9134716235012093
+[11Mar2025 05:55:28.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chocolinpy moved too quickly! 0.0,-21.72881510382598,0.0
+[11Mar2025 05:55:31.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved too quickly! 5.947221122467909,-5.759527256923931,-7.518773840222593
+[11Mar2025 05:55:47.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [Powder Snow Walk]
+[11Mar2025 05:55:47.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported chocolinpy to 15KEnzo]
+[11Mar2025 05:55:53.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has reached the goal [I see clearly now]
+[11Mar2025 05:56:26.901] [Server thread/WARN] [tombstone/]: The death event of the player chocolinpy was canceled by another mod
+[11Mar2025 05:56:26.904] [Server thread/INFO] [tombstone/]: The player chocolinpy has successfully been saved
+[11Mar2025 05:56:28.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy fell out of the world
+[11Mar2025 05:56:28.900] [Server thread/INFO] [tombstone/]: The player chocolinpy has successfully been saved
+[11Mar2025 05:56:58.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chocolinpy> [name:"Muerte 02:56:28 03-11-2025", x:1076, y:2, z:1776, dim:minecraft:the_end]
+[11Mar2025 05:57:13.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported chocolinpy to 15KEnzo]
+[11Mar2025 05:59:47.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4128ms or 82 ticks behind
+[11Mar2025 05:59:47.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fassetta02 moved too quickly! 5.973628170501115,-8.072220565071277,-0.7303874090061981
