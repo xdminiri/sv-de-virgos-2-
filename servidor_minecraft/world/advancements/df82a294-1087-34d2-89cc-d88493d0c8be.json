@@ -8212,6 +8212,7 @@
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
+      "trickor_treat_1": "2025-03-11 04:12:07 +0000",
       "trickor_treat_4": "2025-03-07 07:54:01 +0000",
       "trickor_treat_5": "2025-03-07 07:54:01 +0000",
       "trickor_treat_6": "2025-03-07 07:54:01 +0000"
@@ -8251,6 +8252,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-03-07 07:57:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-03-11 04:07:34 +0000"
     },
     "done": true
   },

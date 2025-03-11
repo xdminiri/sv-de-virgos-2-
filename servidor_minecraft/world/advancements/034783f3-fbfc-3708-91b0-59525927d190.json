@@ -8668,6 +8668,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-03-11 04:10:16 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep_smithing": {
     "criteria": {
       "has_sheep": "2025-03-11 04:00:49 +0000"
