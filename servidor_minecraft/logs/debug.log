@@ -7532,3 +7532,63 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [11Mar2025 05:38:51.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has made the advancement [Cover Me with Diamonds]
 [11Mar2025 05:38:54.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Mar2025 05:38:54.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 05:41:35.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported Fassetta02 to chocolinpy]
+[11Mar2025 05:42:17.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Turtle['The Boss'/66256, l='ServerLevel[world]', x=1041.23, y=53.40, z=1995.00] died: death.attack.holy.item
+[11Mar2025 05:42:57.441] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[11Mar2025 05:42:57.444] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 05:43:54.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 05:43:54.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 05:44:11.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=28, z=1945} BlockPos{x=1035, y=26, z=1945}
+[11Mar2025 05:44:11.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=27, z=1945} BlockPos{x=1035, y=26, z=1945}
+[11Mar2025 05:44:11.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=28, z=1945} BlockPos{x=1033, y=27, z=1945}
+[11Mar2025 05:44:11.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=27, z=1945} BlockPos{x=1033, y=27, z=1945}
+[11Mar2025 05:44:11.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=27, z=1945} BlockPos{x=1033, y=27, z=1945}
+[11Mar2025 05:44:12.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=27, z=1945} BlockPos{x=1033, y=27, z=1945}
+[11Mar2025 05:44:14.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=28, z=1945} BlockPos{x=1034, y=26, z=1944}
+[11Mar2025 05:44:14.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=27, z=1945} BlockPos{x=1034, y=26, z=1944}
+[11Mar2025 05:44:14.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=28, z=1945} BlockPos{x=1034, y=26, z=1945}
+[11Mar2025 05:44:14.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=27, z=1945} BlockPos{x=1035, y=26, z=1945}
+[11Mar2025 05:44:15.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=28, z=1945} BlockPos{x=1035, y=26, z=1945}
+[11Mar2025 05:44:15.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1036, y=27, z=1945} BlockPos{x=1035, y=26, z=1945}
+[11Mar2025 05:44:33.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1060, y=27, z=1945}
+[11Mar2025 05:44:33.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1944} BlockPos{x=1060, y=27, z=1945}
+[11Mar2025 05:44:34.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1944} BlockPos{x=1060, y=27, z=1943}
+[11Mar2025 05:44:34.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1060, y=27, z=1943}
+[11Mar2025 05:44:34.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1060, y=27, z=1943}
+[11Mar2025 05:44:34.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1944} BlockPos{x=1060, y=27, z=1943}
+[11Mar2025 05:44:34.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1944} BlockPos{x=1060, y=28, z=1943}
+[11Mar2025 05:44:34.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1060, y=26, z=1944}
+[11Mar2025 05:44:34.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1060, y=26, z=1944}
+[11Mar2025 05:44:34.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1944} BlockPos{x=1060, y=26, z=1944}
+[11Mar2025 05:44:34.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1944} BlockPos{x=1060, y=26, z=1944}
+[11Mar2025 05:44:34.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1060, y=26, z=1944}
+[11Mar2025 05:44:34.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1060, y=26, z=1944}
+[11Mar2025 05:44:34.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1060, y=27, z=1945}
+[11Mar2025 05:44:34.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1060, y=27, z=1945}
+[11Mar2025 05:44:35.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1060, y=28, z=1945}
+[11Mar2025 05:44:35.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1060, y=27, z=1945}
+[11Mar2025 05:44:35.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1060, y=27, z=1945}
+[11Mar2025 05:44:35.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1059, y=26, z=1945}
+[11Mar2025 05:44:35.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1059, y=26, z=1945}
+[11Mar2025 05:44:36.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1059, y=26, z=1945}
+[11Mar2025 05:44:37.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1059, y=26, z=1945}
+[11Mar2025 05:44:37.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1060, y=27, z=1945}
+[11Mar2025 05:44:37.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1060, y=27, z=1945}
+[11Mar2025 05:44:37.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1059, y=26, z=1945}
+[11Mar2025 05:44:37.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1059, y=26, z=1945}
+[11Mar2025 05:44:37.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=28, z=1945} BlockPos{x=1059, y=26, z=1945}
+[11Mar2025 05:44:37.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1945} BlockPos{x=1059, y=26, z=1945}
+[11Mar2025 05:44:37.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=27, z=1946} BlockPos{x=1059, y=26, z=1945}
+[11Mar2025 05:45:43.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has completed the challenge [Master Siphoner]
+[11Mar2025 05:48:54.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 05:48:54.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 05:49:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 15KEnzo has made the advancement [The City at the End of the Game]
+[11Mar2025 05:49:19.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 15KEnzo moved too quickly! -0.05300552949563553,52.98782301325389,-0.23748223272218638
+[11Mar2025 05:49:38.196] [Server thread/WARN] [tombstone/]: The death event of the player 15KEnzo was canceled by another mod
+[11Mar2025 05:49:38.223] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 05:49:44.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from unholy damage
+[11Mar2025 05:49:44.209] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 15KEnzo with unique ID travelersbackpack.standard_11.03.2025-05.49.44.dat
+[11Mar2025 05:49:44.210] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 980 Y: 110 Z: 1730
+[11Mar2025 05:49:44.657] [Server thread/DEBUG] [tombstone/]: A new grave of the player 15KEnzo was created at position [x:980, y:110, z:1732, dim:minecraft:the_end]
+[11Mar2025 05:49:44.667] [Server thread/INFO] [tombstone/]: The player 15KEnzo has successfully been saved
+[11Mar2025 05:49:47.146] [Server thread/DEBUG] [twilightforest/]: Player 15KEnzo (e6e33e59-2039-3adb-a627-9d9c233c5700) respawned and received items held in storage
