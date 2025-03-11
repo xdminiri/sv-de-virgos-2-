@@ -57,6 +57,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-27 05:40:27 +0000",
       "minecraft:taiga": "2025-02-27 04:37:53 +0000",
+      "minecraft:deep_ocean": "2025-03-11 04:45:30 +0000",
       "minecraft:frozen_river": "2025-02-27 05:19:08 +0000",
       "minecraft:cherry_grove": "2025-02-25 07:08:48 +0000",
       "minecraft:sunflower_plains": "2025-02-27 04:42:58 +0000",
@@ -73,6 +74,7 @@
       "minecraft:grove": "2025-03-07 07:45:48 +0000",
       "minecraft:cold_ocean": "2025-03-11 04:29:05 +0000",
       "minecraft:forest": "2025-02-25 03:28:02 +0000",
+      "minecraft:lush_caves": "2025-03-11 04:35:27 +0000",
       "minecraft:deep_cold_ocean": "2025-03-07 07:54:02 +0000",
       "minecraft:jungle": "2025-02-23 18:53:33 +0000",
       "minecraft:ocean": "2025-02-25 03:44:45 +0000",
@@ -693,6 +695,7 @@
       "minecraft:pillager": "2025-02-25 06:46:39 +0000",
       "minecraft:blaze": "2025-02-26 05:08:29 +0000",
       "minecraft:skeleton": "2025-02-25 03:53:30 +0000",
+      "minecraft:guardian": "2025-03-11 04:49:12 +0000",
       "minecraft:vindicator": "2025-02-26 07:15:08 +0000",
       "minecraft:spider": "2025-02-25 04:13:29 +0000",
       "minecraft:creeper": "2025-02-26 06:18:46 +0000",
@@ -8261,9 +8264,75 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-03-11 05:02:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-03-11 04:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-11 04:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-03-11 05:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-03-11 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-03-11 05:07:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-03-11 05:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-03-11 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-11 04:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-03-11 05:07:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "calamari": "2025-03-11 05:02:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-03-11 05:07:59 +0000"
     },
     "done": true
   },
@@ -8273,9 +8342,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-03-11 05:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-03-11 05:07:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-03-11 04:14:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-03-11 05:02:05 +0000"
     },
     "done": true
   },
@@ -8285,15 +8372,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-11 04:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-03-11 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-11 04:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-03-11 05:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-03-11 05:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-03-11 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-03-11 05:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-11 04:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-11 04:49:43 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-03-11 04:38:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-11 05:06:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-03-11 04:14:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-03-11 05:07:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2025-03-11 04:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-03-11 05:07:50 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-03-11 04:43:36 +0000"
     },
     "done": true
   },

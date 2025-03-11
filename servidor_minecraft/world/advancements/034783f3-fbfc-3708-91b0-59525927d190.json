@@ -2222,6 +2222,7 @@
       "beef": "2025-02-27 07:14:37 +0000",
       "apple": "2025-02-25 06:22:56 +0000",
       "rabbit": "2025-02-25 06:57:06 +0000",
+      "pumpkin_pie": "2025-03-11 04:33:59 +0000",
       "mutton": "2025-02-25 06:24:19 +0000",
       "bread": "2025-02-25 04:24:43 +0000",
       "golden_apple": "2025-02-25 06:58:44 +0000",
@@ -8672,79 +8673,97 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-03-11 04:33:45 +0000"
+      "log_spam_fixer": "2025-03-11 05:08:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-11 04:36:31 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:yoursatietywillbe_eternal": {
     "criteria": {
       "yoursatietywillbe_eternal_0": "2025-03-11 04:27:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-03-11 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-03-11 04:34:14 +0000"
     },
     "done": true
   },
@@ -8760,9 +8779,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-11 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_ingredient": "2025-03-11 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-03-11 04:36:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep_smithing": {
     "criteria": {
       "has_sheep": "2025-03-11 04:00:49 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-03-11 04:36:20 +0000"
     },
     "done": true
   },

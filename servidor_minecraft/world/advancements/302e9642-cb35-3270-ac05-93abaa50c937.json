@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-02-27 05:15:29 +0000",
+      "minecraft:deep_ocean": "2025-03-11 04:45:19 +0000",
       "minecraft:cherry_grove": "2025-02-25 07:08:11 +0000",
       "minecraft:birch_forest": "2025-02-27 05:14:38 +0000",
       "minecraft:bamboo_jungle": "2025-02-25 06:46:22 +0000",
@@ -67,6 +68,7 @@
       "minecraft:dripstone_caves": "2025-02-25 04:17:48 +0000",
       "minecraft:cold_ocean": "2025-03-11 04:29:13 +0000",
       "minecraft:forest": "2025-02-25 03:28:00 +0000",
+      "minecraft:lush_caves": "2025-03-11 04:35:29 +0000",
       "minecraft:deep_cold_ocean": "2025-03-11 04:25:55 +0000",
       "minecraft:jungle": "2025-02-25 03:21:17 +0000",
       "minecraft:ocean": "2025-02-25 03:36:39 +0000",
@@ -8593,9 +8595,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-03-11 04:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-11 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-11 04:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-11 04:37:04 +0000"
     },
     "done": true
   },
@@ -8611,9 +8643,51 @@
     },
     "done": true
   },
+  "aquamirae:recipes/sharp_bones": {
+    "criteria": {
+      "has_item": "2025-03-11 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/master_siphoner": {
     "criteria": {
       "coded_trigger": "2025-03-11 04:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-11 04:48:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-03-11 04:39:42 +0000"
     },
     "done": true
   },
@@ -8641,9 +8715,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-11 04:48:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-03-11 04:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-11 04:48:33 +0000"
     },
     "done": true
   },
@@ -8653,15 +8739,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-03-11 04:31:19 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-11 04:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-11 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-11 04:50:34 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/pirate_pouch": {
     "criteria": {
       "has_item": "2025-03-11 04:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-03-11 04:39:42 +0000"
     },
     "done": true
   },
@@ -8674,6 +8802,60 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-03-11 04:31:19 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-03-11 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-03-11 04:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-11 04:37:04 +0000"
     },
     "done": true
   },

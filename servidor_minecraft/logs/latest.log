@@ -344,3 +344,22 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [11Mar2025 04:34:55.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=394, y=67, z=-6924} BlockPos{x=394, y=66, z=-6925}
 [11Mar2025 04:35:36.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/16527, l='ServerLevel[world]', x=563.50, y=50.00, z=-6729.50]
 [11Mar2025 04:36:20.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has made the advancement [Exploration]
+[11Mar2025 04:38:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _valenntinno has reached the goal [To be or not to be]
+[11Mar2025 04:43:36.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has made the advancement [Exploration]
+[11Mar2025 04:45:52.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chocolinpy has completed the challenge [Free Willy]
+[11Mar2025 04:49:05.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=365, y=60, z=-6992} BlockPos{x=365, y=59, z=-6992}
+[11Mar2025 04:50:26.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported Fassetta02 to chocolinpy]
+[11Mar2025 04:52:53.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Set own game mode to Creative Mode]
+[11Mar2025 04:52:59.338] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Mar2025 04:54:22.795] [Server thread/WARN] [tombstone/]: The death event of the player Fassetta02 was canceled by another mod
+[11Mar2025 04:54:22.806] [Server thread/INFO] [tombstone/]: The player Fassetta02 has successfully been saved
+[11Mar2025 05:02:18.894] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 05:02:18.895] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 05:02:18.895] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 05:02:18.896] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 05:02:18.896] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 05:02:18.896] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 05:02:18.897] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:witch_hut/foundation
+[11Mar2025 05:03:57.502] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[11Mar2025 05:06:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fassetta02 has completed the challenge [Eye of the Tiger]
+[11Mar2025 05:07:00.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chocolinpy: Teleported chocolinpy to Fassetta02]
